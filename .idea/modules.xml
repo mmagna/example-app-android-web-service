@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TutorialWebService.iml" filepath="$PROJECT_DIR$/TutorialWebService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TutorialWebService-master.iml" filepath="$PROJECT_DIR$/TutorialWebService-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-app-android-web-service.iml" filepath="$PROJECT_DIR$/example-app-android-web-service.iml" />
     </modules>
   </component>
 </project>
