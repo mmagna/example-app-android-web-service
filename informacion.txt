@@ -1,0 +1,22 @@
+https://tutorialandroidcodejavu.000webhostapp.com/ejemploBDRemota/wsJSONRegistro.php?documento=13&nombre=Mario Andres Perez&profesion=Deportista
+
+/build.gradle
+https://developer.android.com/training/volley
+
+/manifest
+antes de aplication
+<uses-permission android:name="android.permission.INTERNET"/>
+
+public class RegistrarUsuarioFragment extends Fragment Response.Listener<JSONObject>,Response.ErrorListener
+
+Crea dos metodos
+
+onErrorResponse(VolleyError error)
+{
+
+}
+
+onResponse(JSONObjetc response)
+{
+
+}
